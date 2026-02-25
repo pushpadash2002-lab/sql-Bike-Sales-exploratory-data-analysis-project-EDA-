@@ -12,7 +12,7 @@ Calculated measures by different dimensions. Example - Total customers by countr
 ## Ranking Analysis
 Ranked top and bottom customers based on highest revenue created, and ranked top-performing and low-perfoming products in terms of sales.
 ## Changes Over Time
-Analyzed sales performance overtime.
+Analyzed sales performance overtime. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/b3fe5aade7a22a9695d6462d32ccab24b12abdeb/Changes%20Over%20Time.sql)
 ## Cumulative Analysis
 Calculated the total sales per month and running total of sales overtime.
 ## Performance Analysis
