@@ -16,7 +16,7 @@ Analyzed sales performance overtime. (https://github.com/pushpadash2002-lab/sql-
 ## Cumulative Analysis
 Calculated the total sales per month and running total of sales overtime. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/2b3d148854716ccb75930a6e51c1510d0a942bed/Cumulative%20Analysis.sql)
 ## Performance Analysis
-Analyzed the yearly performance of products by comparing their sales to both the average sales performance of the product and the previous year's sales.
+Analyzed the yearly performance of products by comparing their sales to both the average sales performance of the product and the previous year's sales. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/cf4a7346484f1283a925434e3149aabc6a9c0968/Performance%20Analysis.sql)
 ## Proportional Analysis
 Calculated which categories contribute the most to overall sales.
 ## Data Segmentation 
