@@ -10,7 +10,7 @@ Explored the database, along with date, dimensions, and measures.
 ## Magnitude Analysis
 Calculated measures by different dimensions. Example - Total customers by countries, total customers by gender, total products by category. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/484585e664406518cedd2699f07af6076e01c527/Magnitude%20Analysis.sql)
 ## Ranking Analysis
-Ranked top and bottom customers based on highest revenue created, and ranked top-performing and low-perfoming products in terms of sales.
+Ranked top and bottom customers based on highest revenue created, and ranked top-performing and low-perfoming products in terms of sales. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/7a4ac8b4d9748a02db2849aae737ccca640158b8/Ranking%20Analysis.sql)
 ## Changes Over Time
 Analyzed sales performance overtime. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/b3fe5aade7a22a9695d6462d32ccab24b12abdeb/Changes%20Over%20Time.sql)
 ## Cumulative Analysis
