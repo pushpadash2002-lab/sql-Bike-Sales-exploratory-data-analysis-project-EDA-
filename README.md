@@ -22,6 +22,7 @@ Calculated which categories contribute the most to overall sales.
 ## Data Segmentation 
 Segmented the customer data with 'VIP', 'Regular', and 'New' based on their spending and lifespan.
 And segmented the products with 'High-Performers', 'Mid-Range' and 'low-performers' based total sales of products.
+Also segmented the products into cost ranges and count how many products fall into each segment.
 # Key Insights (Reporting)
 ## Customer Report 
 Identified that most of the VIP customers are from (50 and Above) age group with maximum average order value (AOV).
