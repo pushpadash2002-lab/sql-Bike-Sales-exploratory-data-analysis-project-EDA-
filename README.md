@@ -27,4 +27,4 @@ Also segmented the products into cost ranges and count how many products fall in
 ## Customer Report 
 Identified that most of the VIP customers are from (50 and Above) age group with maximum average order value (AOV). (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/c2a350cc51b0244f4fcfd563026f40e98acf2da0/Customer%20Report.sql)
 ## Product Report 
-Identified that our high-performing products are from Bikes category making maximum average order revenue (AOR).
+Identified that our high-performing products are from Bikes category making maximum average order revenue (AOR). (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/885f42c280f5546c8294c3dee93988d35a3914e2/Product%20Report.sql)
