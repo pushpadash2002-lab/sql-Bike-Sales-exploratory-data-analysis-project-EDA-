@@ -1,6 +1,5 @@
 # SQL-Bike-sales-Exploratory-Data-Analysis-Project
-To architect a scalable SQL-based diagnostic framework that transformed 10,000+ transaction records into actionable-behavioral insights, focusing on customer lifecycle segmentation and product profitability trends.
-Using advanced SQL techniques (CTEs, Window Functions, and Multi-layered Aggregations), the goal was to identify high-value customer segments, track product lifecycle velocity, and uncover hidden revenue opportunities within the global bike and accessories market.
+Architected a scalable SQL-based diagnostic framework that transformed 10,000+ transaction records into actionable-behavioral insights, focusing on customer lifecycle segmentation and product profitability trends, using advanced SQL techniques (CTEs, Window Functions, and Multi-layered Aggregations).
 # Data Sources
 Used three datasets : dim_products, dim_customers and fact_sales.
 # Data Exploration
