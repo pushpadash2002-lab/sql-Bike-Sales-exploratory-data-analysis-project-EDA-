@@ -1,5 +1,5 @@
 # SQL-Bike-sales-Exploratory-Data-Analysis-Project
-The primary objective of this project was to transform raw, fragmented retail data into a Strategic Intelligence Framework. By engineering two comprehensive reporting engines-Customer 360 and Product Performance-this project enables stakeholders to move beyond "what happened" to "who is driving growth."
+To architect a scalable SQL-based diagnostic framework that transformed 10,000+ transaction records into actionable-behavioral insights, focusing on customer lifecycle segmentation and product profitability trends.
 Using advanced SQL techniques (CTEs, Window Functions, and Multi-layered Aggregations), the goal was to identify high-value customer segments, track product lifecycle velocity, and uncover hidden revenue opportunities within the global bike and accessories market.
 # Data Sources
 Used three datasets : dim_products, dim_customers and fact_sales.
