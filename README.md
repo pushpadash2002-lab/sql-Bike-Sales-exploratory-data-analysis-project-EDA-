@@ -1,5 +1,6 @@
 # SQL-Bike-sales-Exploratory-Data-Analysis-Project
-A comprehensive collection of SQL scripts for data exploration, analytics and reporting. This script cover various analytical techniques such as changes over time, cumulative analysis, performance analysis, data-segmentation, part-to-whole analysis.
+The primary objective of this project was to transform raw, fragmented retail data into a Strategic Intelligence Framework. By engineering two comprehensive reporting engines-Customer 360 and Product Performance-this project enables stakeholders to move beyond "what happened" to "who is driving growth."
+Using advanced SQL techniques (CTEs, Window Functions, and Multi-layered Aggregations), the goal was to identify high-value customer segments, track product lifecycle velocity, and uncover hidden revenue opportunities within the global bike and accessories market.
 # Data Sources
 Used three datasets : dim_products, dim_customers and fact_sales.
 # Data Exploration
